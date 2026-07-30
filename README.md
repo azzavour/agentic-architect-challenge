@@ -66,12 +66,3 @@ See `part1_design/architecture.pdf` for the full write-up, and
 guardrail agent checks for critical issues and contact history before
 anything else runs; only non-critical emails proceed to classification and
 RAG-grounded drafting; every draft goes through human review before sending.
-
-## Notes
-
-During development I initially built this against the Anthropic API, then
-switched to the Gemini API for its free tier. While testing, I hit the free
-tier's daily request quota partway through — the scraper's retry-with-backoff
-logic handled the transient rate limit correctly, though the daily cap
-required waiting for reset. This is discussed further in `architecture.pdf`
-under Failure Handling.
