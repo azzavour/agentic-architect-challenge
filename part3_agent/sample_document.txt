@@ -1,0 +1,21 @@
+Acme Cloud Storage — Plan Overview
+
+Acme Cloud Storage offers three subscription tiers:
+
+1. Starter Plan — $5/month. Includes 100 GB of storage and access from 1 device.
+2. Pro Plan — $12/month. Includes 1 TB of storage, access from up to 5 devices,
+   and priority email support.
+3. Business Plan — $30/month per user. Includes 5 TB of storage per user,
+   unlimited devices, SSO integration, and a dedicated account manager.
+
+Refund Policy: Customers may request a full refund within 14 days of purchase
+if less than 5 GB of storage has been used. After 14 days, refunds are only
+issued in cases of billing error, verified at Acme's discretion.
+
+File Recovery: Deleted files remain recoverable for 30 days on the Pro and
+Business plans, and 7 days on the Starter plan. After this window, deleted
+files cannot be recovered under any circumstances.
+
+Support Hours: Live chat support is available Monday-Friday, 9am-6pm (UTC).
+Email support is monitored 24/7 with a target first response time of 4 hours
+for Pro/Business customers and 24 hours for Starter customers.
